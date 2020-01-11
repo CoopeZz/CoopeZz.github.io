@@ -1,11 +1,11 @@
 /*DS4 CoopeZz start*/
 .controller.custom {
-    background: url(base);
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/base.png);
     height: 599px;
     width: 807px;
 }
 .custom.disconnected {
-    background: url(disconnected);
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/disconnected.png);
     height: 598px
 }
 .custom.disconnected div {
@@ -20,7 +20,7 @@
 .custom .trigger {
     width: 100px;
     height: 91%;
-    background: url(triggers);
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/triggers.png);
     opacity: 0;
 }
 .custom .trigger.left {
@@ -33,7 +33,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumper) no-repeat;
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/bumper.png) no-repeat;
     opacity: 0;
 }
 .custom .bumpers {
@@ -59,7 +59,7 @@
     position: absolute;
     left: 271px;
     top: 122px;
-    background: url(touchpad) no-repeat center;
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/touchpad.png) no-repeat center;
     opacity: 0;
 }
 .custom .touchpad.pressed {
@@ -71,7 +71,7 @@
     position: absolute;
     left: 381px;
     bottom: 216px;
-    background: url(meta) no-repeat center;
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/meta.png) no-repeat center;
     opacity: 0;
 }
 .custom .meta.pressed {
@@ -85,7 +85,7 @@
     left: 227px;
 }
 .custom .back, .custom .start {
-    background: url(start);
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/start.png);
     width: 29px;
     height: 47px;
     opacity: 0;
@@ -110,7 +110,7 @@
     position: absolute;
     width: 56px;
     height: 56px;
-    background: url(face);
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/face.png);
     opacity: 0;
 }
 .custom .button.pressed {
@@ -143,7 +143,7 @@
 }
 .custom .stick {
     position: absolute;
-    background: url(sticks);
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/sticks.png);
     height: 94px;
     width: 96px;
 }
@@ -170,7 +170,7 @@
     left: 90px;
 }
 .custom .face {
-    background: url(dpad);
+    background: url(https://raw.githubusercontent.com/CoopeZz/CoopeZz.github.io/master/DS4/%5BDS4%5D%20CoopeZz/dpad.png);
     position: absolute;
     opacity: 0;
 }
